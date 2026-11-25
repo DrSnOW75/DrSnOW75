@@ -1,16 +1,22 @@
-## Hi there 👋
+# bienvenue sur mon profile GitHub 
 
-<!--
-**DrSnOW75/DrSnOW75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## développeur web et web mobile en formation
+*bienvenue dans mon univers de développement web 
 
-Here are some ideas to get you started:
+## a propos de moi 
+actuellement en formation **développeur web et web mobile(DWWM)** je développe mes compétence dans la création de site et d'application web 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- en formation DWWM
+- parle totalement anglais
+- développeur web front-end et back-end
+- en constante progression
+
+## Mes compétences 
+**Langage et compétence**
+-HTML5
+-CSS3
+-Javascript (node)
+-Git
+-GitHub
+-Markdown
+
