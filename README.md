@@ -13,10 +13,10 @@ actuellement en formation **développeur web et web mobile(DWWM)** je développe
 
 ## Mes compétences 
 **Langage et compétence**
--HTML5
--CSS3
--Javascript (node)
--Git
--GitHub
--Markdown
 
+- HTML5
+- CSS3
+- Javascript (node)
+- Git
+- GitHub
+- Markdown
