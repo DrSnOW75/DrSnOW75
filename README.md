@@ -7,7 +7,6 @@
 actuellement en formation **développeur web et web mobile(DWWM)** je développe mes compétence dans la création de site et d'application web 
 
 - en formation DWWM
-- parle totalement anglais
 - développeur web front-end et back-end
 - en constante progression
 
@@ -19,4 +18,5 @@ actuellement en formation **développeur web et web mobile(DWWM)** je développe
 - Javascript (node)
 - Git
 - GitHub
+- Parle Anglais
 - Markdown
